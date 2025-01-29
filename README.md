@@ -49,14 +49,4 @@ CRUD/
 ├── README.md  # Documentação do projeto
 ```
 
-## Melhorias Futuras
-- Implementação de um sistema de login
-- Validação de entrada de dados
-- Melhorias na interface
-
-## Contribuição
-Sinta-se à vontade para contribuir com melhorias! Faça um fork do projeto, crie uma branch e envie um pull request.
-
-## Licença
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
